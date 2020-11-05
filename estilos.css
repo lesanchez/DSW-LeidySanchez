@@ -3,3 +3,28 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
+
+.nav li a 
+{
+    background-color:  #B3B3B3;
+    color: #005883;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+
+}
+.nav > li 
+{
+    float: left;
+}
+.nav li a:hover
+ {
+     background-color: #808080;
+     
+    
+
+
+
+
+}
+
