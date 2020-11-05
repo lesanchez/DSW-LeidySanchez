@@ -13,18 +13,14 @@
     display: block;
 
 }
-.nav > li 
-{
-    float: left;
-}
+
 .nav li a:hover
  {
      background-color: #808080;
      
-    
+}
 
-
-
-
+.nav > li {
+    float: left;
 }
 
