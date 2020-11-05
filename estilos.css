@@ -10,3 +10,15 @@
 
 }
 
+.piepagina{
+    padding: 40px;
+    position: relative;
+    margin-top: -10px;
+    width: 100%;
+    clear: both;
+    background: #B3B3B3;
+    text-align: center;
+    color: #005883 ;
+
+
+}
