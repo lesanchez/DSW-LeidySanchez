@@ -45,7 +45,7 @@
 
 .tabla2{
     padding: 100px;
-    text-align: left;
+    text-align: left, center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #808080;
 }
